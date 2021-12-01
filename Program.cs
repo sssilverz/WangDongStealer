@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace sg1
 {
@@ -16,7 +16,6 @@ namespace sg1
                     }
                 }
             });
-            Console.ReadLine();
         }
     }
 }
